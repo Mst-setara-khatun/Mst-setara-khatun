@@ -47,16 +47,16 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 <div align="center">
 
 <a href="https://github.com/Mst-setara-khatun/Cyber-Maze-Escape">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Cyber-Maze-Escape&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Cyber-Maze-Escape&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
 </a>
 <a href="https://github.com/Mst-setara-khatun/Crop-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Crop-Recommendation-System&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Crop-Recommendation-System&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
 </a>
 <a href="https://github.com/Mst-setara-khatun/SkillHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mst-setara-khatun&repo=SkillHub&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mst-setara-khatun&repo=SkillHub&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
 </a>
 <a href="https://github.com/Mst-setara-khatun/Personal-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Personal-Portfolio&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mst-setara-khatun&repo=Personal-Portfolio&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81" />
 </a>
 
 </div>
@@ -67,9 +67,9 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mst-setara-khatun&show_icons=true&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mst-setara-khatun&show_icons=true&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&icon_color=7950F2&border_color=312E81&include_all_commits=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mst-setara-khatun&layout=compact&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&border_color=312E81&langs_count=8" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mst-setara-khatun&layout=compact&bg_color=080D1B&title_color=00D9FF&text_color=F8FAFC&border_color=312E81&langs_count=8" />
 
 <br/><br/>
 
@@ -83,7 +83,6 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mst-setara-khatun&bg_color=080D1B&color=C4B5FD&line=00D9FF&point=7950F2&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="98%" />
 
 </div>
 
@@ -116,3 +115,4 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:7950F2,100:080D1B&height=120&section=footer" width="100%" />
 
 </div>
+
