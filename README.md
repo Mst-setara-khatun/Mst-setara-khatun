@@ -79,14 +79,6 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 
 ---
 
-## ✦ Contribution Activity
-
-<div align="center">
-
-
-</div>
-
----
 
 ## ✦ Current Focus
 
@@ -115,4 +107,6 @@ Hello! I'm **Setara Khatun**, a Computer Science and Engineering student passion
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:7950F2,100:080D1B&height=120&section=footer" width="100%" />
 
 </div>
+
+
 
